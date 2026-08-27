@@ -3,6 +3,7 @@
 -📈Novato em python
 -🎶Amante de música e cultura pop
 -👨🏾‍💻Futuro Desenvolvedor
+-🧠CONHECIMENTO É PODER !
 ## Como me encontrar?
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:rickelme.lucena@aluno.cps.sp.gov.br)
 ## Tecnologias que estudo
